@@ -1,0 +1,15 @@
+{
+  "name": "pompattern_saucedemo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "BaseLibrary.spec.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "devDependencies": {
+    "@playwright/test": "^1.65.1",
+    "@types/node": "^26.6.7"
+  }
+}
